@@ -9,7 +9,3 @@ numpy
 matplotlib
 pandas
 scikit-learn
-and then ran command in terminal:
-pip install -r requirements.txt
-
-Change
