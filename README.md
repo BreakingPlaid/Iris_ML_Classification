@@ -13,8 +13,11 @@ scikit-learn
 *** TO RETROACTIVELY IGNORE FILES
 
 git rm -r --cached .
+
 git add .
+
 git commit -m "Reapply .gitignore rules"
+
 git push origin main
 
 
