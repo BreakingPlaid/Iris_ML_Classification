@@ -40,7 +40,7 @@ Of course, ensure you have Python installed before proceeding.
 ### 3️⃣ Run the Project
 Execute the main script:
 
-bash
+Terminal
 ```
 python Iris.py
 ### (Replace your_script.py with the actual filename if you changed it.)
@@ -50,7 +50,7 @@ python Iris.py
 Ignoring Tracked Files Retroactively
 If .gitignore isn’t working as expected, remove tracked files and reapply .gitignore:
 
-CLI
+Terminal
 ```
 git rm -r --cached .
 git add .
